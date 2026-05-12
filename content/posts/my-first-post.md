@@ -1,7 +1,7 @@
 +++
 title = 'MUY MAL'
 date = 2026-05-12
-draft = true
+draft = false
 +++
 
 ## Los que quuedan para Junio

@@ -1,7 +1,7 @@
 +++
 title = 'Mi segundo post'
 date = 2026-05-12
-draft = true
+draft = false
 +++
 
 ## Vamos aprendiendo poco a poco
