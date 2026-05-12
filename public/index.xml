@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pruebas</title>
-    <link>http://localhost:1313/</link>
+    <link>https://cmmodem.github.io/</link>
     <description>Recent content on Pruebas</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cmmodem.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mi segundo post</title>
-      <link>http://localhost:1313/posts/mi-segundo-post/</link>
+      <link>https://cmmodem.github.io/posts/mi-segundo-post/</link>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mi-segundo-post/</guid>
+      <guid>https://cmmodem.github.io/posts/mi-segundo-post/</guid>
       <description>&lt;h2 id=&#34;vamos-aprendiendo-poco-a-poco&#34;&gt;Vamos aprendiendo poco a poco&lt;/h2&gt;&#xA;&lt;p&gt;Hola, a todos!&lt;/p&gt;&#xA;&lt;p&gt;Ya sabemos instalr Hugo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MUY MAL</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://cmmodem.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://cmmodem.github.io/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;los-que-quuedan-para-junio&#34;&gt;Los que quuedan para Junio&lt;/h2&gt;&#xA;&lt;p&gt;Hola, a todos!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ruben&lt;/li&gt;&#xA;&lt;li&gt;Carmen&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Roi&lt;/strong&gt; &amp;lt;- Este es el peor&lt;/li&gt;&#xA;&lt;li&gt;Graña&lt;/li&gt;&#xA;&lt;li&gt;Sio&lt;/li&gt;&#xA;&lt;li&gt;Esto es un enlace a &lt;a href=&#34;https://www.edu.xunta.gal/centros/iesderodeira&#34;&gt;IES de Rodeira&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>
