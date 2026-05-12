@@ -1,4 +1,4 @@
-baseURL = 'https://cmmodem.github.io/'
+baseURL = 'https://cmmodem.github.io/quickstart/'
 locale = 'es'
 title = 'Pruebas'
 theme = 'ananke'
